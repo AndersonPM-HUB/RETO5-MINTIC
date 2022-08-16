@@ -18,3 +18,8 @@ Nùmero_Habitaciones y la respectiva Ciudad.
 Realizar un informe basándose en las compras realizadas por los proyectos con el proveedor
 “Homecenter” y para la ciudad “Salento”. Este informe debe incluir: ID_Compra, 
 Constructora y Banco_Vinculado.
+
+![image](https://user-images.githubusercontent.com/79481049/184799430-003a426c-a7a4-4ecd-b776-56717ba7706f.png)
+![image](https://user-images.githubusercontent.com/79481049/184799465-2479195c-5997-4181-ae38-2d2bcc02168a.png)
+
+![image](https://user-images.githubusercontent.com/79481049/184799571-8a154173-e0e2-423e-a084-aad3da7c400b.png)
